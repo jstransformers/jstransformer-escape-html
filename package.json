@@ -1,14 +1,23 @@
 {
   "name": "jstransformer-escape-html",
-  "version": "0.0.1",
-  "description": "Escape text to be included in HTML",
+  "version": "0.1.0",
+  "description": "Escape HTML with JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
-  "dependencies": {},
-  "devDependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "escape-html": "^1.0.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.14",
+    "testit": "^2.0.2"
+  },
   "scripts": {
-    "test": "node test"
+    "test": "node test",
+    "coverage": "istanbul cover test"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,1 @@
+<span class="foo" id='bar'>hello world</span>
