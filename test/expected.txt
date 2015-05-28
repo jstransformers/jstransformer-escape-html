@@ -1,0 +1,1 @@
+&lt;span class=&quot;foo&quot; id=&#39;bar&#39;&gt;hello world&lt;/span&gt;
