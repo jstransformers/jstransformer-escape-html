@@ -1,19 +1,27 @@
 {
   "name": "jstransformer-escape-html",
-  "version": "0.0.1",
-  "description": "Escape text to be included in HTML",
+  "version": "0.1.0",
+  "description": "escape-html support for JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
-  "dependencies": {},
-  "devDependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
   "scripts": {
-    "test": "node test"
+    "test": "test-jstransformer",
+    "coverage": "test-jstransformer coverage"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/jstransformers/jstransformer-escape-html.git"
   },
-  "author": "ForbesLindesay",
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
   "license": "MIT"
 }
