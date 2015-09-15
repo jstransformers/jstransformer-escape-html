@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.0: 2015-09-15
+
+- Use escape-html module
+- Stable release
+
 ## v0.1.0: 2014-07-13
 
 - Updated Boilerplate
