@@ -1,6 +1,6 @@
 # jstransformer-escape-html
 
-[escape-html](http://npm.im/escape-html) with [JSTransformers](http://github.com/jstransformers).
+[escape-html](http://npm.im/escape-html) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-escape-html/master.svg)](https://travis-ci.org/jstransformers/jstransformer-escape-html)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-escape-html/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-escape-html?branch=master)
