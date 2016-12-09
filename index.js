@@ -1,10 +1,10 @@
-'use strict';
+'use strict'
 
-var escape = require('escape-html');
+var escape = require('escape-html')
 
-exports.name = 'escape-html';
-exports.outputFormat = 'html';
+exports.name = 'escape-html'
+exports.outputFormat = 'html'
 
 exports.render = function (str) {
-  return escape(str);
-};
+  return escape(str)
+}
