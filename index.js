@@ -1,6 +1,6 @@
 'use strict'
 
-var escape = require('escape-html')
+const escape = require('escape-html')
 
 exports.name = 'escape-html'
 exports.outputFormat = 'html'
