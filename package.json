@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "escape-html": "^1.0.3"
+  },
   "name": "jstransformer-escape-html",
   "version": "1.1.0",
   "description": "escape-html support for JSTransformers.",
@@ -28,8 +31,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "escape-html": "^1.0.3"
-  }
+  "license": "MIT"
 }
