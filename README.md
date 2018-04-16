@@ -17,7 +17,7 @@
 ```js
 var escape = require('jstransformer')(require('jstransformer-escape-html'))
 
-escape.render('foo & bar'').body
+escape.render('foo & bar').body
 //=> 'foo &amp; bar'
 ```
 
